@@ -18,4 +18,4 @@ Observe
   ✓ should notify of any property changes
 
 1 passing (13ms)
-``
+```
